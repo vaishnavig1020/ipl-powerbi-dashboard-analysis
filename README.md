@@ -52,11 +52,7 @@ Match patterns and seasonal insights
 
 📸 Dashboard Preview
 
-(Add your dashboard screenshots here)
-
-Example:
-
-![Dashboard](images/IPL dashboard.png)
+![Dashboard](image/IPL dashboard.png)
 ⭐ Future Scope
 
 Add advanced player performance metrics
