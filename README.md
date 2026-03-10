@@ -6,7 +6,8 @@ This project transforms raw IPL datasets into interactive visualizations and KPI
 
 📊 Dashboard Preview
 
-(image/IPL Dashboard)
+![Dashboard](image/IPL_Dashboard.PNG)
+
 
 🎯 Project Objectives
 
@@ -131,18 +132,6 @@ Sports Data Analytics
 
 Data Storytelling
 
-📁 Project Structure
-IPL-Analysis-Dashboard
-│
-├── IPL_Dashboard.pbix
-├── dataset
-│   ├── matches.csv
-│   ├── deliveries.csv
-│   ├── teams.csv
-│   └── players.csv
-│
-├── dashboard.png
-└── README.md
 🚀 How to Use
 
 Download the .pbix file from this repository.
