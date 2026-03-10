@@ -6,7 +6,7 @@ This project transforms raw IPL datasets into interactive visualizations and KPI
 
 📊 Dashboard Preview
 
-![Dashboard](image/IPL_Dashboard.PNG)
+![Dashboard](IPL_Dashboard.PNG)
 
 
 🎯 Project Objectives
