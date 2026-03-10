@@ -56,7 +56,7 @@ Match patterns and seasonal insights
 
 Example:
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/IPL dashboard.png)
 ⭐ Future Scope
 
 Add advanced player performance metrics
